@@ -1,0 +1,5 @@
+INSERT INTO [dbo].[Employees] ([Id], [Name]) VALUES (1, N'Alice')
+INSERT INTO [dbo].[Employees] ([Id], [Name]) VALUES (2, N'Bob')
+INSERT INTO [dbo].[Employees] ([Id], [Name]) VALUES (3, N'Charlie')
+INSERT INTO [dbo].[Employees] ([Id], [Name]) VALUES (4, N'Diana')
+INSERT INTO [dbo].[Employees] ([Id], [Name]) VALUES (5, N'Evan')
